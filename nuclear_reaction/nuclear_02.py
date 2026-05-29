@@ -1,7 +1,7 @@
-#!/usr/pkg/bin/python3.9
+#!/usr/bin/env python3
 
 #
-# Time-stamp: <2024/03/29 08:54:28 (UT+8) daisuke>
+# Time-stamp: <2026/05/28 16:10:01 (UT+08:00) daisuke>
 #
 
 # importing nuclyr module
