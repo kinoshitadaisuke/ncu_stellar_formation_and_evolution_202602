@@ -1,7 +1,7 @@
-#!/usr/pkg/bin/python3.12
+#!/usr/bin/env python3
 
 #
-# Time-stamp: <2024/05/09 14:48:30 (UT+8) daisuke>
+# Time-stamp: <2026/05/28 16:11:53 (UT+08:00) daisuke>
 #
 
 # importing sympy module
