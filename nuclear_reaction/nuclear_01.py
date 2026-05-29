@@ -1,7 +1,7 @@
-#!/usr/pkg/bin/python3.12
+#!/usr/bin/env python3
 
 #
-# Time-stamp: <2024/03/29 08:53:31 (UT+8) daisuke>
+# Time-stamp: <2026/05/28 16:09:54 (UT+08:00) daisuke>
 #
 
 # importing nuclyr module
